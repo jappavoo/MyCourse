@@ -1,6 +1,7 @@
 <!-- #region -->
-Book Title 
+My Text Book a
 =====================================
+This is the textbook for My Course. 
 
 In this book we will teach something fun
 - fun thing one
